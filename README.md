@@ -19,3 +19,8 @@
 <img aline="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 <img aline="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
+
+Sou apaixonado por tecnologia e por tudo que ela oferece pra facilitar a vida da população.
+
+“A melhor maneira de prever o futuro é inventá-lo.”</br>
+(Alan Kaye)
