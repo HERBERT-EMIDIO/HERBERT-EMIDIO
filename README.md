@@ -10,6 +10,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HERBERT-EMIDIO&show_icons=true&theme=moltack)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HERBERT-EMIDIO)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia:
 
