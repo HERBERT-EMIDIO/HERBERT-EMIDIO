@@ -1,14 +1,7 @@
-### Olá! Eu sou Herbert Emidio 👋
+### Olá! Eu sou Herbert Emidio 👋 🎸 🏃
+ 🌱 Estudando Tecnologia em Análise e Des.de Sistemas 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 Estudando .Net C# POO
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
  <div align="center">
   <a href="https://https://github.com/HERBERT-EMIDIO">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HERBERT-EMIDIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -33,8 +26,10 @@
  	
     
    <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-   
-   
+  
+  
+  ![Snake animation](https://github.com/HERBERT-EMIDIO/blob/output/github-contribution-grid-snake.svg) 
+    
   
     
  </div>
