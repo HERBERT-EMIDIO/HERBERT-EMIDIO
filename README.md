@@ -1,5 +1,9 @@
  ### Olá! Eu sou Herbert Emidio 👋 🎸 🏃
- 🌱 Estudando Tecnologia em Análise e Des.de Sistemas 💻
+ Tenho a intenção de aprender com a empresa e aprimorar minhas habilidades conceituas, humanas 
+e técnicas. Atualmente, estou ampliando meus conhecimentos em Análise e Desenvolvimento de 
+Sistemas, na área da tecnologia, e sou formado em Processos Gerencias.🌎
+
+🌱 Estudando Tecnologia em Análise e Des.de Sistemas 💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herbertemidio/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://herbertemidio2017@gmail.com)
