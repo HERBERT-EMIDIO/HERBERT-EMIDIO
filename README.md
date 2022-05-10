@@ -24,7 +24,7 @@ Sistemas, na área da tecnologia, e sou formado em Processos Gerencias.🌎
 <img aline="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 <img aline="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 
-![Snake animation](https://github.com/HERBERT-EMIDIO/HERBERT-EMIDIOo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/HERBERT-EMIDIO/HERBERT-EMIDIO/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
