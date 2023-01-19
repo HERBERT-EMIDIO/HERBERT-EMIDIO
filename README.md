@@ -28,7 +28,7 @@ Sistemas, na área da tecnologia, e sou formado em Processos Gerencias.🌎
 
 </div>
 
-Sou apaixonado por tecnologia e por tudo que ela oferece pra facilitar a vida da população.
+Sou apaixonado por tecnologia e por tudo que ela pode oferece para facilitar a vida das pessoas.
 
 “A melhor maneira de prever o futuro é inventá-lo.”</br>
 (Alan Kaye)
