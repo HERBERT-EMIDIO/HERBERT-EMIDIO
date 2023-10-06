@@ -1,18 +1,37 @@
- ### Olá! Eu sou Herbert Emidio 👋 🎸 🏃
- Tenho a intenção de aprender com a empresa e aprimorar minhas habilidades conceituas, humanas 
-e técnicas. Atualmente, estou ampliando meus conhecimentos em Análise e Desenvolvimento de 
-Sistemas, na área da tecnologia, e sou formado em Processos Gerencias.🌎
+# Herbert Emidio
 
-🌱 Estudando Tecnologia em Análise e Des.de Sistemas 💻
+## Sobre mim
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herbertemidio/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://herbertemidio2017@gmail.com)
-[![Gmail](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://herbertemidio2017@gmail.com)
-[![Gmail](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://herbertemidio2017@gmail.com)
-[![Gmail](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HERBERT-EMIDIO)
-[![Gmail](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/herbert_emidio/)
+Eu sou um desenvolvedor de software em processo de formação, com experiência em análise de sistemas. Estou sempre procurando aprender coisas novas e me desenvolver profissionalmente.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HERBERT-EMIDIO&show_icons=true&theme=moltack)
+**Habilidades:**
+
+* **Linguagens:** Python, Java, C#, JavaScript
+* **Frameworks:** Django, Flask, Spring Boot, React, Angular
+* **Bancos de dados:** MySQL, PostgreSQL, MongoDB
+* **Outros:** Git, GitHub, Agile
+
+## Projetos
+
+* **Meu primeiro projeto:** Um site simples de blog, feito com Python e Django.
+* **Meu segundo projeto:** Um jogo de adivinhação, feito com Java e Spring Boot.
+* **Meu terceiro projeto:** Uma aplicação web para gerenciamento de tarefas, feita com C# e Angular.
+
+## Objetivos
+
+* **Aprimorar minhas habilidades técnicas e conceituais.**
+* **Conseguir um emprego como desenvolvedor de software.**
+* **Me mudar para o Canadá.**
+
+## Contatos
+
+* **LinkedIn:** https://www.linkedin.com/in/herbertemidio/
+* **Gmail:** herbertemidio2017@gmail.com
+* **Instagram:** https://www.instagram.com/herbert_emidio/
+
+## Estatísticas do GitHub
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/username/HERBERT-EMIDIO)](https://github.com/HERBERT-EMIDIO)ue&theme=moltack)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HERBERT-EMIDIO)](https://github.com/anuraghazra/github-readme-stats)
 
