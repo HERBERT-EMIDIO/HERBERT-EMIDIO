@@ -6,9 +6,9 @@ Eu sou um desenvolvedor de software em processo de formação, com experiência 
 
 **Habilidades:**
 
-* **Linguagens:** Python, Java, C#, JavaScript
-* **Frameworks:** Django, Flask, Spring Boot, React, Angular
-* **Bancos de dados:** MySQL, PostgreSQL, MongoDB
+* **Linguagens:**  Java
+* **Frameworks:** 
+* **Bancos de dados:** 
 * **Outros:** Git, GitHub, Agile
 
 ## Projetos
@@ -21,7 +21,6 @@ Eu sou um desenvolvedor de software em processo de formação, com experiência 
 
 * **Aprimorar minhas habilidades técnicas e conceituais.**
 * **Conseguir um emprego como desenvolvedor de software.**
-* **Me mudar para o Canadá.**
 
 ## Contatos
 
