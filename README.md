@@ -13,10 +13,8 @@ Eu sou um desenvolvedor de software em processo de formação, com experiência 
 
 ## Projetos
 
-* **Meu primeiro projeto:** Um site simples de blog, feito com Python e Django.
-* **Meu segundo projeto:** Um jogo de adivinhação, feito com Java e Spring Boot.
-* **Meu terceiro projeto:** Uma aplicação web para gerenciamento de tarefas, feita com C# e Angular.
-
+* **Meu primeiro projeto:**
+ 
 ## Objetivos
 
 * **Aprimorar minhas habilidades técnicas e conceituais.**
