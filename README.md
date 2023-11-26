@@ -6,7 +6,7 @@ Eu sou um desenvolvedor de software em processo de formação, com experiência 
 
 **Habilidades:**
 
-* **Linguagens:**  Java
+* **Linguagens:**  Java, C#
 * **Frameworks:** 
 * **Bancos de dados:** 
 * **Outros:** Git, GitHub, Agile
