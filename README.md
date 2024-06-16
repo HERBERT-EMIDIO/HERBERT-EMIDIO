@@ -13,8 +13,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas (ADS) prestes a concl
 
 ## Projetos
 
-- **Sistema Bancário Simples:** Implementação de um sistema bancário básico em Python, permitindo operações como depósito, saque e consulta de extrato. [Link para o repositório](URL_do_Repositorio)
-
+- **Sistema Bancário Simples:** Implementação de um sistema bancário básico em Python, permitindo operações como depósito, saque e consulta de extrato. 
 ## Objetivos
 
 - **Aprimorar minhas habilidades técnicas e conceituais em Engenharia de Dados.**
@@ -22,8 +21,8 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas (ADS) prestes a concl
 
 ## Contatos
 
-- **LinkedIn:** [[Herbert Felipe Emidio da Silva](https://www.linkedin.com/in/herbertemidio/)](URL_do_LinkedIn)
-- **Gmail:** herbertemidio2017@gmail.com
+- **LinkedIn:** [[Herbert Felipe Emidio da Silva](https://www.linkedin.com/in/herbertemidio/)]
+- **Gmail:** [herbertemidio2017@gmail.com]
 - **Instagram:** [herbert_emidio](https://www.instagram.com/herbert_emidio/)
 
 ## Estatísticas do GitHub
