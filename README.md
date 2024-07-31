@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
 
-<h1 align="center">Olá! Eu sou Herbert Felipe Emidio 👋</h1>
+<h1 align="center">Olá! Eu sou Herbert Felipe Emidio da Silva 👋</h1>
 
 <h2>Sobre mim</h2>
 <p>Sou Herbert Emidio, um profissional dinâmico e orientado a resultados com sólida experiência na área financeira e um forte interesse em dados e tecnologia. Busco aplicar soluções inovadoras para maximizar o valor dos negócios e a satisfação dos clientes.</p>
@@ -31,16 +31,13 @@
 </div>
 
 <h2>Habilidades</h2>
+<p>Estou aprendendo as seguintes linguagens com foco na área de back-end e dados:</p>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=blue" alt="ReactJs">
-  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=blue" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Php-000?style=for-the-badge&logo=php&logoColor=blue" alt="Php">
-  <img src="https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase&logoColor=yellow" alt="FireBase">
-  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=orange" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS3">
-  <img src="https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=sass&logoColor=pink" alt="SASS">
-  <img src="https://img.shields.io/badge/StyledComponent-000?style=for-the-badge&logo=styled-components&logoColor=pink" alt="Styled-Component">
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=yellow" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=blue" alt="MySQL">
+  <img src="https://img.shields.io/badge/SQL%20Server-000?style=for-the-badge&logo=microsoft-sql-server&logoColor=red" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=red" alt="Java">
 </div>
 
 <h2>Estatísticas do GitHub</h2>
