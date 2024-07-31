@@ -1,47 +1,50 @@
-# Herbert Felipe Emidio da Silva
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
 
-## Sobre mim
+<h1 align="center">Olá! Eu sou o Herbert Felipe Emidio 👋</h1>
 
-Sou um estudante de Análise e Desenvolvimento de Sistemas (ADS) prestes a concluir meu curso, com interesse crescente em Engenharia de Dados. Atualmente, estou me aprofundando nesse campo por meio de cursos na Alura e fui selecionado para o programa de bolsa de Engenheiro de Dados pela Ada-SantanderCoders. Estou sempre em busca de aprender novas tecnologias e me desenvolver profissionalmente nesse campo emocionante.
+<h2>Sobre mim</h2>
+<p>Sou Herbert Emidio, um profissional dinâmico e orientado a resultados com sólida experiência na área financeira e um forte interesse em dados e tecnologia. Busco aplicar soluções inovadoras para maximizar o valor dos negócios e a satisfação dos clientes.</p>
 
-**Habilidades:**
+<h3>💻 Foco em Soluções de Negócios e Retenção de Clientes</h3>
+<p>Com formação em Análise e Desenvolvimento de Sistemas (ADS) pela Faculdade UNINASSAU e Processos Gerenciais pela Faculdade UNIP, tenho uma visão estratégica para identificar oportunidades e desenvolver soluções que impulsionem o crescimento e a eficiência operacional. Minha experiência inclui gestão de carteiras de clientes no setor financeiro, com ênfase em retenção e satisfação.</p>
 
-- **Linguagens:** Python
-- **Frameworks:** Em processo de aprendizado
-- **Bancos de dados:** Estudando SQL e NoSQL
-- **Outros:** Git, GitHub, Metodologias Ágeis
+<h3>💼 Experiência na Área Financeira e Gestão de Clientes</h3>
+<p>Minha trajetória profissional em uma agência bancária me proporcionou uma base sólida em análise financeira e atendimento ao cliente. Tenho habilidade em desenvolver estratégias de cross-selling e upselling, bem como em realizar visitas periódicas para fortalecer relacionamentos e obter feedback valioso.</p>
 
-## Projetos
+<h3>📚 Formação Contínua em Engenharia de Dados e Java</h3>
+<p>Para complementar minha experiência, estou me aprofundando em Engenharia de Dados por meio de cursos na Alura, que abrangem tópicos como manipulação de dados, ETL (Extract, Transform, Load), data warehousing e big data. Além disso, estou estudando Java pela DIO para expandir minhas competências em desenvolvimento de software. Essa formação me permite aplicar insights de dados para resolver problemas complexos e propor melhorias contínuas.</p>
 
-- **Sistema Bancário Simples:** Implementação de um sistema bancário básico em Python, permitindo operações como depósito, saque e consulta de extrato. 
-## Objetivos
+<h3>📈 Análise de Indicadores e Proposta de Ações</h3>
+<p>Tenho expertise em acompanhar e analisar indicadores de desempenho, propondo ações corretivas e de melhoria para maximizar os resultados. Minha abordagem consultiva e personalizada garante que as necessidades dos clientes sejam atendidas de forma proativa e eficaz.</p>
 
-- **Aprimorar minhas habilidades técnicas e conceituais em Engenharia de Dados.**
-- **Conseguir uma posição como Engenheiro de Dados em uma empresa inovadora.**
-
-## Contatos
-
-- **LinkedIn:** [[Herbert Felipe Emidio da Silva](https://www.linkedin.com/in/herbertemidio/)]
-- **Gmail:** [herbertemidio2017@gmail.com]
-- **Instagram:** [herbert_emidio](https://www.instagram.com/herbert_emidio/)
-
-## Estatísticas do GitHub
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=moltack)](https://github.com/SEU_USUARIO_GITHUB)
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB)](https://github.com/anuraghazra/github-readme-stats)
-
-### Tecnologias que eu uso no meu dia:
-
-<div style="display: inline_block"></br>
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"/>
-<img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<h2>Redes Sociais</h2>
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <a href="https://www.linkedin.com/in/herbertemidio" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/HERBERT-EMIDIO" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:herbertemidio2017@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red" alt="E-mail">
+  </a>
 </div>
 
-Sou apaixonado por tecnologia e estou ansioso para aplicar meu conhecimento em Engenharia de Dados para impulsionar inovações e facilitar a vida das pessoas.
+<h2>Habilidades</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=blue" alt="ReactJs">
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=blue" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Php-000?style=for-the-badge&logo=php&logoColor=blue" alt="Php">
+  <img src="https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase&logoColor=yellow" alt="FireBase">
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=orange" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS3">
+  <img src="https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=sass&logoColor=pink" alt="SASS">
+  <img src="https://img.shields.io/badge/StyledComponent-000?style=for-the-badge&logo=styled-components&logoColor=pink" alt="Styled-Component">
+</div>
 
-“A melhor maneira de prever o futuro é inventá-lo.”
-(Alan Kaye)
+<h2>Estatísticas do GitHub</h2>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=HERBERT-EMIDIO&show_icons=true&theme=radical" alt="Estatísticas do GitHub" style="margin: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HERBERT-EMIDIO&layout=compact&theme=radical" alt="Linguagens Mais Usadas" style="margin: 10px;">
+</div>
